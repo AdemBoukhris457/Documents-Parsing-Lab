@@ -50,4 +50,9 @@ A curated collection of Jupyter notebooks for experimenting with state-of-the-ar
 * Some notebooks require model weights or API keys, check comments in each notebook for details.
 * Results, insights, and sample outputs are provided inline.
 
+---
 
+## 🔗 Related Resources
+
+📂 You can find more notebooks, experiments, and datasets related to document parsing and OCR on my Kaggle profile:
+👉 [https://www.kaggle.com/ademboukhris/code](https://www.kaggle.com/ademboukhris/code)
