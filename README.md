@@ -17,11 +17,13 @@ A curated collection of Jupyter notebooks for experimenting with state-of-the-ar
 | [marker-docs-parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/marker-docs-parsing.ipynb)                                                         | Marker-based document parsing experiments                           |
 | [mistralocr-docs-parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/mistralocr-docs-parsing.ipynb)                                                 | Document parsing using **MistralOCR**                               |
 | [monkeyocr-docs-pages-parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/monkeyocr-docs-pages-parsing.ipynb)                                       | Document parsing with **MonkeyOCR**                                 |
+| [nanonets-OCR-s\_docs\_parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/nanonets-OCR-s_docs_parsing.ipynb)                                       | Advanced document parsing using **Nanonets-OCR-s**                  |
 | [ollama-llama3-2-vision-usage.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/ollama-llama3-2-vision-usage.ipynb)                                       | Using **Llama3-2 Vision** for document parsing                      |
 | [paddleocr-3-0-docs-parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/paddleocr-3-0-docs-parsing.ipynb)                                           | Parsing with **PaddleOCR 3.0** PP-StructureV3                       |
 | [pix2text-docs-pages-parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/pix2text-docs-pages-parsing.ipynb)                                         | Document parsing using **Pix2Text**                                 |
 | [smoldocling-documents-understanding.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/smoldocling-documents-understanding.ipynb)                         | Document understanding with **SmolDocling**                         |
 | [zerox-pdf-parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/zerox-pdf-parsing.ipynb)                                                             | PDF parsing experiments with **Zerox**                              |
+
 
 ---
 
