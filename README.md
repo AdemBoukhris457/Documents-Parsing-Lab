@@ -25,6 +25,7 @@ A curated collection of Jupyter notebooks for experimenting with state-of-the-ar
 | [smoldocling-documents-understanding.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/smoldocling-documents-understanding.ipynb)                         | Document understanding with **SmolDocling**                         |
 | [zerox-pdf-parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/zerox-pdf-parsing.ipynb)                                                             | PDF parsing experiments with **Zerox**                              |
 | [qwen2-vl-2b-docs-parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/qwen2-vl-2b-docs-parsing.ipynb)                                                             | Documents pages parsing with **Qwen2-VL-2B**                              |
+| [OCRFlux_3B_Docs_Parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/OCRFlux_3B_Docs_Parsing.ipynb)                                                             | Document parsing with **OCRFlux-3B** on Lightning AI                              |
 
 
 ---
