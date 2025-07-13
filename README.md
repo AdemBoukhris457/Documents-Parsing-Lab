@@ -64,3 +64,9 @@ A curated collection of Jupyter notebooks for experimenting with state-of-the-ar
 
 📂 You can find more notebooks, experiments, and datasets related to document parsing and OCR on my Kaggle profile:
 👉 [https://www.kaggle.com/ademboukhris/code](https://www.kaggle.com/ademboukhris/code)
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AdemBoukhris457/Docs_Parsing_Techniques&type=Date)](https://www.star-history.com/#AdemBoukhris457/Docs_Parsing_Techniques&Date)
