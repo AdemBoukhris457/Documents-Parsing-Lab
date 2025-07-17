@@ -39,6 +39,7 @@ This section includes notebooks focused on table detection, structure recognitio
 | Notebook                                                                                                                                                                              | Description                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [unitable-testing-for-table-structure-recognition.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/unitable-testing-for-table-structure-recognition.ipynb) | Testing table detection and structure recognition with **UniTable** |
+| [deepdoctection-tables-recognition.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/deepdoctection-tables-recognition.ipynb)                              | Evaluating **Deepdoctection** for table extraction across varied structures |
 
 
 ---
