@@ -15,7 +15,6 @@ A curated collection of Jupyter notebooks for experimenting with state-of-the-ar
 | [typhoon-ocr-7b-docs-pages-parser.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/typhoon-ocr-7b-docs-pages-parser.ipynb) | Evaluating **Typhoon_ocr_7b** Document Parsing Capabilities Across Various Use Cases                    |
 | [florence-2-large-ocr-documents-pages.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/florence-2-large-ocr-documents-pages.ipynb)                       | OCR of document pages using **Florence 2 Large**                    |
 | [florence-2-large-ocr-images-real-life-scenarios.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/florence-2-large-ocr-images-real-life-scenarios.ipynb) | Real-life scenario OCR with **Florence 2 Large**                    |
-| [gemini-2-5-pro-on-chart-and-table-extraction.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/gemini-2-5-pro-on-chart-and-table-extraction.ipynb)       | Chart/table extraction using **Gemini 2.5 Pro**                     |
 | [got-ocr2-0-docs-parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/got-ocr2-0-docs-parsing.ipynb)                                                 | Document pages parsing with **GOT-OCR2.0** and **Gemini 2.5 Flash** |
 | [marker-docs-parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/marker-docs-parsing.ipynb)                                                         | Marker-based document parsing experiments                           |
 | [mistralocr-docs-parsing.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/mistralocr-docs-parsing.ipynb)                                                 | Document parsing using **MistralOCR**                               |
@@ -32,14 +31,17 @@ A curated collection of Jupyter notebooks for experimenting with state-of-the-ar
 
 ---
 
-## 📝 Table Detection and Structure Recognition
+## 📑📊 Tables and Charts Recognition
 
-This section includes notebooks focused on table detection, structure recognition, and extraction from documents. It covers various open-source approaches and benchmarks for understanding table layouts and content.
+This section includes notebooks focused on table and chart detection, structure recognition, and extraction from documents. It covers various open-source approaches and benchmarks for understanding table and chart layouts and content.
+
 
 | Notebook                                                                                                                                                                              | Description                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [unitable-testing-for-table-structure-recognition.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/unitable-testing-for-table-structure-recognition.ipynb) | Testing table detection and structure recognition with **UniTable** |
 | [deepdoctection-tables-recognition.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/deepdoctection-tables-recognition.ipynb)                              | Evaluating **Deepdoctection** for table extraction across varied structures |
+| [gemini-2-5-pro-on-chart-and-table-extraction.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/gemini-2-5-pro-on-chart-and-table-extraction.ipynb)       | Chart/table extraction using **Gemini 2.5 Pro**                     |
+| [deplot-plots-to-tables-converter.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/deplot-plots-to-tables-converter.ipynb)       | Converting Charts into Tables with **DePlot**                     |
 
 
 ---
