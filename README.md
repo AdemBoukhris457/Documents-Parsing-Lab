@@ -51,7 +51,7 @@ This section covers the structured data extraction phase, detailing methods to e
 
 | Notebook                                                                                                                                                      | Description                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [NuExtract-2-8b-structured-data-extraction](hhttps://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/NuExtract-2-8b-structured-data-extraction.ipynb)     | **NuExtract-2.0-8B for Structured Data Extraction**               |
+| [NuExtract-2-8b-structured-data-extraction](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/NuExtract-2-8b-structured-data-extraction.ipynb)     | **NuExtract-2.0-8B for Structured Data Extraction**               |
 
 ---
 
