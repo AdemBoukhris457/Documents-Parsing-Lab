@@ -43,8 +43,18 @@ This section includes notebooks focused on table and chart detection, structure 
 | [gemini-2-5-pro-on-chart-and-table-extraction.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/gemini-2-5-pro-on-chart-and-table-extraction.ipynb)       | Chart/table extraction using **Gemini 2.5 Pro**                     |
 | [deplot-plots-to-tables-converter.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/deplot-plots-to-tables-converter.ipynb)       | Converting Charts into Tables with **DePlot**                     |
 
+---
+
+## 📑🔍 Structured Data Extraction
+
+This section covers the structured data extraction phase, detailing methods to extract specific data from documents or images. It includes steps like OCR preprocessing, table extraction, named entity recognition (NER), and conversion to structured formats.
+
+| Notebook                                                                                                                                                      | Description                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [NuExtract-2-8b-structured-data-extraction](hhttps://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/NuExtract-2-8b-structured-data-extraction.ipynb)     | **NuExtract-2.0-8B for Structured Data Extraction**               |
 
 ---
+
 
 ## 📖 Project Goals
 
