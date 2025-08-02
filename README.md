@@ -43,6 +43,7 @@ This section includes notebooks focused on table and chart detection, structure 
 | [gemini-2-5-pro-on-chart-and-table-extraction.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/gemini-2-5-pro-on-chart-and-table-extraction.ipynb)       | Chart/table extraction using **Gemini 2.5 Pro**                     |
 | [deplot-plots-to-tables-converter.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/deplot-plots-to-tables-converter.ipynb)       | Converting Charts into Tables with **DePlot**                     |
 | [cohere-command-a-vision-charts-understanding.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/cohere-command-a-vision-charts-understanding.ipynb)       | Cohere Command A Vision for Charts Understanding                     |
+| [cohere-command-a-vision-tables-recognition.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/cohere-command-a-vision-tables-recognition.ipynb)       | Cohere Command A Vision for Tables Recognition                     |
 
 ---
 
