@@ -44,6 +44,7 @@ This section includes notebooks focused on table and chart detection, structure 
 | [deplot-plots-to-tables-converter.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/deplot-plots-to-tables-converter.ipynb)       | Converting Charts into Tables with **DePlot**                     |
 | [cohere-command-a-vision-charts-understanding.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/cohere-command-a-vision-charts-understanding.ipynb)       | Cohere Command A Vision for Charts Understanding                     |
 | [cohere-command-a-vision-tables-recognition.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/cohere-command-a-vision-tables-recognition.ipynb)       | Cohere Command A Vision for Tables Recognition                     |
+| [moondream2-charts-tables-interpretation.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/moondream2-charts-tables-interpretation.ipynb)       | Moondream2 for Charts and Tables understanding                   |
 
 ---
 
