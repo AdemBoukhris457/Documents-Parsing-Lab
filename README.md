@@ -1,4 +1,4 @@
-# 📝 Docs Parsing Techniques
+# 📝 Documents Parsing Lab
 ![The Parsing Lab: OCR & Document Intelligence](assets/banner.png)
 
 A curated collection of Jupyter notebooks for experimenting with state-of-the-art OCR, document parsing, table extraction, and chart understanding techniques. This repository enables easy benchmarking and practical usage of the latest open-source and cloud-based solutions for document image processing.
