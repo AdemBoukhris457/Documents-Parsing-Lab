@@ -5,7 +5,17 @@ A curated collection of Jupyter notebooks for experimenting with state-of-the-ar
 
 ---
 
-## 🚀 Notebooks Overview
+## 🚀 Doctra Quick Start
+
+This section provides a quick start guide for getting started with **Doctra**, a powerful tool for structured document parsing without Vision Language Models (VLM). Learn how to parse PDF documents, extract structured content (text, tables, charts, figures), and generate multiple output formats.
+
+| Notebook                                                                                                                                                                            | Description                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [01_doctra_quick_start.ipynb](https://github.com/AdemBoukhris457/Documents-Parsing-Lab/blob/main/01_doctra_quick_start.ipynb)                                 | Quick start guide for **Doctra** structured document parsing         |
+
+---
+
+## 📚 Notebooks Overview
 
 | Notebook                                                                                                                                                                            | Description                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
