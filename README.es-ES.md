@@ -3,6 +3,8 @@
 # 📝 Laboratorio de Análisis de Documentos
 ![El Laboratorio de Análisis: OCR e Inteligencia de Documentos](assets/banner.png)
 
+> 🌐 **Idioma / Language:** [English](README.md) · **Español**
+
 Una colección curada de cuadernos Jupyter para experimentar con técnicas de vanguardia en OCR, análisis de documentos, extracción de tablas y comprensión de gráficos. Este repositorio permite realizar benchmarks prácticos y facilitar el uso de las soluciones más recientes de código abierto y basadas en la nube para el procesamiento de imágenes de documentos.
 
 ---
