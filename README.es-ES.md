@@ -50,13 +50,13 @@ Esta sección incluye cuadernos centrados en la detección, reconocimiento de es
 
 | Cuaderno                                                                                                                                                                              | Descripción                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [unitable-testing-for-table-structure-recognition.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/unitable-testing-for-table-structure-recognition.ipynb) | Pruebas de detección y reconocimiento de estructura de tablas con **UniTable** |
-| [deepdoctection-tables-recognition.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/deepdoctection-tables-recognition.ipynb)                              | Evaluación de **Deepdoctection** para extracción de tablas en estructuras variadas |
-| [gemini-2-5-pro-on-chart-and-table-extraction.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/gemini-2-5-pro-on-chart-and-table-extraction.ipynb)       | Extracción de gráficos/tablas usando **Gemini 2.5 Pro**                     |
-| [deplot-plots-to-tables-converter.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/deplot-plots-to-tables-converter.ipynb)       | Conversión de gráficos a tablas con **DePlot**                     |
-| [cohere-command-a-vision-charts-understanding.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/cohere-command-a-vision-charts-understanding.ipynb)       | Comprensión de gráficos con Cohere Command A Vision                     |
-| [cohere-command-a-vision-tables-recognition.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/cohere-command-a-vision-tables-recognition.ipynb)       | Reconocimiento de tablas con Cohere Command A Vision                     |
-| [moondream2-charts-tables-interpretation.ipynb](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/moondream2-charts-tables-interpretation.ipynb)       | Moondream2 para comprensión de gráficos y tablas                   |
+| [unitable-testing-for-table-structure-recognition.ipynb](https://github.com/AdemBoukhris457/Documents-Parsing-Lab/blob/main/unitable-testing-for-table-structure-recognition.ipynb) | Pruebas de detección y reconocimiento de estructura de tablas con **UniTable** |
+| [deepdoctection-tables-recognition.ipynb](https://github.com/AdemBoukhris457/Documents-Parsing-Lab/blob/main/deepdoctection-tables-recognition.ipynb)                              | Evaluación de **Deepdoctection** para extracción de tablas en estructuras variadas |
+| [gemini-2-5-pro-on-chart-and-table-extraction.ipynb](https://github.com/AdemBoukhris457/Documents-Parsing-Lab/blob/main/gemini-2-5-pro-on-chart-and-table-extraction.ipynb)       | Extracción de gráficos/tablas usando **Gemini 2.5 Pro**                     |
+| [deplot-plots-to-tables-converter.ipynb](https://github.com/AdemBoukhris457/Documents-Parsing-Lab/blob/main/deplot-plots-to-tables-converter.ipynb)       | Conversión de gráficos a tablas con **DePlot**                     |
+| [cohere-command-a-vision-charts-understanding.ipynb](https://github.com/AdemBoukhris457/Documents-Parsing-Lab/blob/main/cohere-command-a-vision-charts-understanding.ipynb)       | Comprensión de gráficos con Cohere Command A Vision                     |
+| [cohere-command-a-vision-tables-recognition.ipynb](https://github.com/AdemBoukhris457/Documents-Parsing-Lab/blob/main/cohere-command-a-vision-tables-recognition.ipynb)       | Reconocimiento de tablas con Cohere Command A Vision                     |
+| [moondream2-charts-tables-interpretation.ipynb](https://github.com/AdemBoukhris457/Documents-Parsing-Lab/blob/main/moondream2-charts-tables-interpretation.ipynb)       | Moondream2 para comprensión de gráficos y tablas                   |
 
 ---
 
@@ -66,7 +66,7 @@ Esta sección cubre la fase de extracción de datos estructurados, detallando m�
 
 | Cuaderno                                                                                                                                                      | Descripción                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [NuExtract-2-8b-structured-data-extraction](https://github.com/AdemBoukhris457/Docs_Parsing_Techniques/blob/main/NuExtract-2-8b-structured-data-extraction.ipynb)     | **NuExtract-2.0-8B** para extracción de datos estructurados                     |
+| [NuExtract-2-8b-structured-data-extraction](https://github.com/AdemBoukhris457/Documents-Parsing-Lab/blob/main/NuExtract-2-8b-structured-data-extraction.ipynb)     | **NuExtract-2.0-8B** para extracción de datos estructurados                     |
 
 ---
 
@@ -85,7 +85,7 @@ Esta sección cubre la fase de extracción de datos estructurados, detallando m�
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/AdemBoukhris457/Docs_Parsing_Techniques.git
+   git clone https://github.com/AdemBoukhris457/Documents-Parsing-Lab.git
    ```
 2. **Instalar las dependencias** según sea necesario para cada cuaderno (consulta las primeras celdas de cada `.ipynb` para ver los requisitos).
 3. **Iniciar Jupyter Notebook o JupyterLab** y abrir cualquier cuaderno de interés.
@@ -109,4 +109,4 @@ Esta sección cubre la fase de extracción de datos estructurados, detallando m�
 
 ## Historial de Estrellas
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AdemBoukhris457/Docs_Parsing_Techniques&type=Date)](https://www.star-history.com/#AdemBoukhris457/Docs_Parsing_Techniques&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AdemBoukhris457/Documents-Parsing-Lab&type=Date)](https://www.star-history.com/#AdemBoukhris457/Documents-Parsing-Lab&Date)
